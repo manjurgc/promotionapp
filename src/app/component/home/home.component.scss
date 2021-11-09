@@ -1,0 +1,41 @@
+// @media (max-width: 500px)
+// {
+//     .banner {
+//         position: relative;
+//         min-height: fit-content;
+//     }   
+// }
+// .banner{
+//     min-height: fit-content;
+// }
+// .carousel-control-prev, .carousel-control-next {
+//     position: absolute;
+//     z-index: 1;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     padding: 0;
+//     text-align: center;
+//     border: 0;
+//     transition: opacity 0.15s ease;
+//     top: 50%;
+//     bottom: inherit;
+//     transform: translateY(-50%);
+//     width: 70px;
+//     height: 70px;
+//     opacity: 1;
+//     background: #00000030;
+//     color: #000;
+//     border-radius: 50%;
+// }
+
+// .carousel-control-prev {
+//     left: 25px;
+// }
+// .carousel-control-next {
+//     right: 25px;
+// }
+// img{
+//     height: 300px;
+//     object-position: center;
+// }
